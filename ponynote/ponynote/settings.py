@@ -28,7 +28,7 @@ DJANGO_APPS = [
 ]
 
 LOCAL_APPS = [
-
+    'notes.apps.NotesConfig',
 ]
 
 EXTERNAL_APPS = [

@@ -25,3 +25,5 @@
 # Django .gitifnore file
 
 webpack-stats.dev.json
+
+ponynote/db.sqlite3
