@@ -1,7 +1,7 @@
 const initialState = [];
 
 
-export default function notes(state = initialState, action) {
+export default function notes(state=initialState, action) {
     let noteList = state.slice();
 
     switch (action.type) {
